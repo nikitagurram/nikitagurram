@@ -1,3 +1,4 @@
+![logo](https://github.com/nikitagurram/nikitagurram/blob/main/Black%20Minimalist%20Corporate%20Professional%20Profile%20LinkedIn%20Banner%20(1).png)
 <h1 align="left">Hi 👋, I'm Nikita Gurram</h1>
 <h3 align="left">A passionate Software Engineer from India</h3>
 
